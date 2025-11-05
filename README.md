@@ -1,3 +1,5 @@
+<img width="876" height="593" alt="calc" src="https://github.com/user-attachments/assets/7b31b2b5-9113-4885-b707-d5250d40f354" />
+
 Python Scientific Calculator
 A sleek, resizable scientific calculator built with Python's standard Tkinter library. It features a modern dark theme inspired by Google's Material Design (Motorola-style) and supports complex mathematical expressions, including trigonometric functions and parentheses.
 
