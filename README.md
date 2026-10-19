@@ -3,7 +3,7 @@
 Python Scientific Calculator
 A sleek, resizable scientific calculator built with Python's standard Tkinter library. It features a modern dark theme inspired by Google's Material Design (Motorola-style) and supports complex mathematical expressions, including trigonometric functions and parentheses.
 
-++ Features
+** Features **
 Modern UI: Clean, dark-themed interface that is easy on the eyes.
 
 Fully Resizable: The window and all buttons scale fluidly to any size.
